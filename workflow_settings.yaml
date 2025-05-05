@@ -1,0 +1,5 @@
+dataformCoreVersion: 3.0.20
+defaultProject: test-vapd
+defaultLocation: amir_test
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
